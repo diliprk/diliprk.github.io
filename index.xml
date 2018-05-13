@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic on Academic</title>
+    <link>https://diliprk.github.io/</link>
+    <description>Recent content in Academic on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0530</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Data Analyst Nanodegree</title>
+      <link>https://diliprk.github.io/post/dand/</link>
+      <pubDate>Sat, 12 May 2018 20:58:04 +0530</pubDate>
+      
+      <guid>https://diliprk.github.io/post/dand/</guid>
+      <description>&lt;p&gt;To view the projects completed for this Nano Degree visit my &lt;a href=&#34;https://github.com/diliprk/DataAnalytics-Nanodegree&#34; target=&#34;_blank&#34;&gt;GitHub repository&lt;/a&gt;. &lt;br&gt;&lt;br&gt;
+&lt;center&gt;&lt;a href=&#34;https://confirm.udacity.com/NKVAVHPU&#34; target=&#34;_blank&#34;&gt;LINK to Verified Certificate&lt;/a&gt;&lt;/center&gt;
+&lt;img src=&#34;https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/fd49ca36-809a-4b83-9e51-8f4258a97405.svg&#34; alt=&#34;DANDcertificate&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tableau Story - US Flight Data Analysis</title>
+      <link>https://diliprk.github.io/project/flightdatastory/</link>
+      <pubDate>Fri, 11 May 2018 15:28:57 +0530</pubDate>
+      
+      <guid>https://diliprk.github.io/project/flightdatastory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EDA in R</title>
+      <link>https://diliprk.github.io/project/eda-in-r/</link>
+      <pubDate>Thu, 03 May 2018 21:12:33 +0530</pubDate>
+      
+      <guid>https://diliprk.github.io/project/eda-in-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Wrangling</title>
+      <link>https://diliprk.github.io/project/datawrangling/</link>
+      <pubDate>Sun, 29 Apr 2018 21:02:08 +0530</pubDate>
+      
+      <guid>https://diliprk.github.io/project/datawrangling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vehicle Traffic Analysis for Smart Street Lighting</title>
+      <link>https://diliprk.github.io/project/smartcityviz/</link>
+      <pubDate>Sun, 29 Apr 2018 20:59:36 +0530</pubDate>
+      
+      <guid>https://diliprk.github.io/project/smartcityviz/</guid>
+      <description>&lt;p&gt;
+ Our Project was titled was titled &lt;strong&gt;&lt;em&gt;Vehicle Traffic Analysis for Smart Street Lighting&lt;/em&gt;&lt;/strong&gt;. To see a live demo of the visualization follow the link below:
+ &lt;a href=&#34;http://smartstreetlighting.herokuapp.com/&#34; target=&#34;_blank&#34;&gt;http://smartstreetlighting.herokuapp.com/&lt;/a&gt; &lt;br&gt; You can read more about the project in this GitHub Repo.&lt;br&gt;
+ &lt;a href=&#34;https://github.com/diliprk/SmartCityVisualization/tree/master/DataVisualisation&#34; target=&#34;_blank&#34;&gt;https://github.com/diliprk/SmartCityVisualization/tree/master/DataVisualisation&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Seminar on GANS</title>
+      <link>https://diliprk.github.io/post/gans/</link>
+      <pubDate>Tue, 21 Nov 2017 20:40:33 +0530</pubDate>
+      
+      <guid>https://diliprk.github.io/post/gans/</guid>
+      <description>&lt;p&gt;I made a presentation on Generative Adversarial Networks for the seminar &lt;em&gt;Advances in Artificial Neural Networks&lt;/em&gt; in Winter Semester 2017 - 2018.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;My seminar was scheduled on November 21st, 2017 .
+You can see the research papers used for my presentation, in the seminar schedule link below: &lt;br&gt;
+&lt;a href=&#34;http://www.dfki.de/~klusch/AANN-seminar-ws17/Schedule/schedule.html&#34; target=&#34;_blank&#34;&gt;http://www.dfki.de/~klusch/AANN-seminar-ws17/Schedule/schedule.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Presentation Slides&lt;/strong&gt;:
+&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQJqESohQVCC4oj409eNMH2aiScHMPRIdTbiK2_cJhnK3yx9V9KeR0QFoxWswdnLbfckpkx0f-2Xtzc/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;683&#34; height=&#34;541&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

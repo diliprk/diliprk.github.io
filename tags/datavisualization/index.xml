@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DataVisualization on Academic</title>
+    <link>https://diliprk.github.io/tags/datavisualization/</link>
+    <description>Recent content in DataVisualization on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 29 Apr 2018 20:59:36 +0530</lastBuildDate>
+    
+	<atom:link href="https://diliprk.github.io/tags/datavisualization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vehicle Traffic Analysis for Smart Street Lighting</title>
+      <link>https://diliprk.github.io/project/smartcityviz/</link>
+      <pubDate>Sun, 29 Apr 2018 20:59:36 +0530</pubDate>
+      
+      <guid>https://diliprk.github.io/project/smartcityviz/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
