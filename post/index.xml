@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://diliprk.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Master Thesis Completion</title>
+      <link>https://diliprk.github.io/post/masterthesis/</link>
+      <pubDate>Fri, 01 May 2020 20:40:33 +0530</pubDate>
+      
+      <guid>https://diliprk.github.io/post/masterthesis/</guid>
+      <description>I completed my master thesis &amp;lsquo;Machine Learning for an Aircraft&amp;rsquo;s Cabin Air Distribution System&amp;rsquo; at Airbus Operations GmbH. The PDF of my Master Thesis Report can be accessed using this link</description>
+    </item>
+    
+    <item>
+      <title>ADS-B Hackathon, Airbus Toulouse</title>
+      <link>https://diliprk.github.io/post/adsb_hackathon/</link>
+      <pubDate>Fri, 02 Nov 2018 20:40:33 +0530</pubDate>
+      
+      <guid>https://diliprk.github.io/post/adsb_hackathon/</guid>
+      <description>&lt;p&gt;I recently started my data science internship at &lt;strong&gt;Airbus Operations GmbH&lt;/strong&gt;, Hamburg in September 2019 and was awarded the opportunity to participate in this ADS-B Hackathon at &lt;strong&gt;Airbus Leadership University&lt;/strong&gt;, Toulouse, France.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning for Natural Language Processing - Seminar on MaskGANs</title>
+      <link>https://diliprk.github.io/post/maskgan/</link>
+      <pubDate>Thu, 20 Sep 2018 20:40:33 +0530</pubDate>
+      
+      <guid>https://diliprk.github.io/post/maskgan/</guid>
+      <description>&lt;p&gt;I made a presentation on MaskGANs for the seminar &lt;em&gt;Machine Learning for Natural Language Processing&lt;/em&gt; in Summer Semester 2018.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Data Analyst Nanodegree</title>
@@ -22,7 +52,7 @@
     </item>
     
     <item>
-      <title>Seminar on GANS</title>
+      <title>Advances in Artificial Neural Networks - Seminar on GANs</title>
       <link>https://diliprk.github.io/post/gans/</link>
       <pubDate>Tue, 21 Nov 2017 20:40:33 +0530</pubDate>
       
@@ -30,6 +60,16 @@
       <description>&lt;p&gt;I made a presentation on Generative Adversarial Networks for the seminar &lt;em&gt;Advances in Artificial Neural Networks&lt;/em&gt; in Winter Semester 2017 - 2018.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Nanodegree Foundation</title>
+      <link>https://diliprk.github.io/post/dlfnd/</link>
+      <pubDate>Thu, 03 Aug 2017 15:51:07 +0530</pubDate>
+      
+      <guid>https://diliprk.github.io/post/dlfnd/</guid>
+      <description>To view the projects completed for this Nanodegree visit my GitHub repository
+LINK to Verified Certificate </description>
     </item>
     
   </channel>

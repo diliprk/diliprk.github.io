@@ -7,8 +7,100 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Master Thesis Completion</title>
+      <link>https://diliprk.github.io/post/masterthesis/</link>
+      <pubDate>Fri, 01 May 2020 20:40:33 +0530</pubDate>
+      
+      <guid>https://diliprk.github.io/post/masterthesis/</guid>
+      <description>&lt;p&gt;I completed my master thesis &amp;lsquo;&lt;em&gt;Machine Learning for an Aircraft&amp;rsquo;s Cabin Air Distribution System&lt;/em&gt;&amp;rsquo; at &lt;em&gt;Airbus Operations GmbH&lt;/em&gt;.
+The PDF of my Master Thesis Report can be accessed using &lt;a href=&#34;https://oc.cs.uni-saarland.de/owncloud/index.php/s/ojWy3CErirtg5Yc&#34; target=&#34;_blank&#34;&gt;this link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CycleGANs for simulated data synthesis</title>
+      <link>https://diliprk.github.io/project/cyclegan/</link>
+      <pubDate>Wed, 29 Apr 2020 21:02:08 +0530</pubDate>
+      
+      <guid>https://diliprk.github.io/project/cyclegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics Informed Neural Network</title>
+      <link>https://diliprk.github.io/project/pinn/</link>
+      <pubDate>Wed, 29 Apr 2020 21:02:08 +0530</pubDate>
+      
+      <guid>https://diliprk.github.io/project/pinn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty Measures with Bayesian Neural Networks</title>
+      <link>https://diliprk.github.io/project/bnn/</link>
+      <pubDate>Wed, 29 Apr 2020 21:02:08 +0530</pubDate>
+      
+      <guid>https://diliprk.github.io/project/bnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADS-B Hackathon, Airbus Toulouse</title>
+      <link>https://diliprk.github.io/post/adsb_hackathon/</link>
+      <pubDate>Fri, 02 Nov 2018 20:40:33 +0530</pubDate>
+      
+      <guid>https://diliprk.github.io/post/adsb_hackathon/</guid>
+      <description>&lt;p&gt;I recently started my data science internship at &lt;strong&gt;Airbus Operations GmbH&lt;/strong&gt;, Hamburg in September 2019 and was awarded the opportunity to participate in this ADS-B Hackathon at &lt;strong&gt;Airbus Leadership University&lt;/strong&gt;, Toulouse, France.
+&lt;/p&gt;
+
+&lt;h3 id=&#34;machine-learning-for-air-traffic-management&#34;&gt;Machine Learning for Air Traffic Management&lt;/h3&gt;
+
+&lt;p&gt;Airsense (a division within Airbus - Munich) organized this 2 day ADS-B Hackathon at &lt;a href=&#34;https://www.airbus.com/newsroom/press-releases/en/2016/09/Airbus-Group-Opens-Leadership-University-In-Toulouse-.html&#34; target=&#34;_blank&#34;&gt;Airbus Leadership University&lt;/a&gt;, Toulouse on Oct 29 and Oct 30, 2018. The goal of this hackathon was to develop various data analytics and ML based solutions to optimize Air Traffic Management using the &lt;em&gt;Automatic Dependent Surveillance Broadcast&lt;/em&gt; (ADS-B) data. The participants had to pick a particular &lt;em&gt;user story&lt;/em&gt; (team). I joined the following team:&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;user-story-runway-and-holding-pattern-detection&#34;&gt;USER STORY - Runway and Holding Pattern Detection:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Project Title:&lt;/strong&gt; &lt;a href=&#34;https://communities.intra.corp/sites/ads-b/ADSB%20Hackathon%202018/ADS-B%20Hackathon_Outcome_Team3.pdf&#34; target=&#34;_blank&#34;&gt;Runway and Holding analysis using LHR airport arrivals case&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;My Task&lt;/strong&gt; : Detect holding patterns and do runway classification with flight arrivals data for LHR (London Heathrow) airport.
+&lt;p align=&#34;center&#34;&gt;
+&lt;img src=&#34;https://user-images.githubusercontent.com/20330371/80918936-bb323880-8d67-11ea-8512-8c25f1d97a93.jpg&#34; /&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In this team project I implemented  various Machine Learning algorithms (such as LSTMs, MLPs and XGBoost) for predicting various parameters related to &lt;em&gt;Air Traffic Control&lt;/em&gt; such as Flight Trajectory, ETA and Runway Classification. The collection of implementation works have been uploaded in this Git Repository: &lt;a href=&#34;https://github.com/diliprk/ML_ADS-B_Hackathon&#34; target=&#34;_blank&#34;&gt;https://github.com/diliprk/ML_ADS-B_Hackathon&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Presentation Slides&lt;/strong&gt;:
+&lt;iframe src=&#34;https://onedrive.live.com/embed?cid=6E68E8BA03D8E3A5&amp;amp;resid=6E68E8BA03D8E3A5%2110866&amp;amp;authkey=ACNSZHbM1l7dkXg&amp;amp;em=2&amp;amp;wdAr=1.7777777777777777&#34; width=&#34;683px&#34; height=&#34;541px&#34; frameborder=&#34;0&#34;&gt;This is an embedded &lt;a target=&#34;_blank&#34; href=&#34;https://office.com&#34;&gt;Microsoft Office&lt;/a&gt; presentation, powered by &lt;a target=&#34;_blank&#34; href=&#34;https://office.com/webapps&#34;&gt;Office&lt;/a&gt;.&lt;/iframe&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ML for Air Traffic Management</title>
+      <link>https://diliprk.github.io/project/ml_atm/</link>
+      <pubDate>Thu, 01 Nov 2018 21:02:08 +0530</pubDate>
+      
+      <guid>https://diliprk.github.io/project/ml_atm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning for Natural Language Processing - Seminar on MaskGANs</title>
+      <link>https://diliprk.github.io/post/maskgan/</link>
+      <pubDate>Thu, 20 Sep 2018 20:40:33 +0530</pubDate>
+      
+      <guid>https://diliprk.github.io/post/maskgan/</guid>
+      <description>&lt;p&gt;I made a presentation on MaskGANs for the seminar &lt;em&gt;Machine Learning for Natural Language Processing&lt;/em&gt; in Summer Semester 2018.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;My seminar was scheduled on September 19th, 2018.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Presentation Slides&lt;/strong&gt;:
+&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQvtg513qtQVR6uC480jjcGYPX5N20vb-V7SQzgCNeelwtK273iEDK1_4CMvLbz7klKezzCkzNCCm0c/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;683&#34; height=&#34;541&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Data Analyst Nanodegree</title>
@@ -62,7 +154,7 @@ This was a graded university course done as part of the &lt;em&gt;Media, Arts an
     </item>
     
     <item>
-      <title>Seminar on GANS</title>
+      <title>Advances in Artificial Neural Networks - Seminar on GANs</title>
       <link>https://diliprk.github.io/post/gans/</link>
       <pubDate>Tue, 21 Nov 2017 20:40:33 +0530</pubDate>
       
@@ -77,6 +169,27 @@ You can see the research papers used for my presentation, in the seminar schedul
 
 &lt;p&gt;&lt;strong&gt;Presentation Slides&lt;/strong&gt;:
 &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQJqESohQVCC4oj409eNMH2aiScHMPRIdTbiK2_cJhnK3yx9V9KeR0QFoxWswdnLbfckpkx0f-2Xtzc/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;683&#34; height=&#34;541&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Nanodegree Foundation</title>
+      <link>https://diliprk.github.io/post/dlfnd/</link>
+      <pubDate>Thu, 03 Aug 2017 15:51:07 +0530</pubDate>
+      
+      <guid>https://diliprk.github.io/post/dlfnd/</guid>
+      <description>&lt;p&gt;To view the projects completed for this Nanodegree visit my &lt;a href=&#34;https://github.com/diliprk/DLFND&#34; target=&#34;_blank&#34;&gt;GitHub repository&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+&lt;center&gt;&lt;a href=&#34;https://confirm.udacity.com/EZY4RCHV&#34; target=&#34;_blank&#34;&gt;LINK to Verified Certificate&lt;/a&gt;&lt;/center&gt;
+&lt;img src=&#34;https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/fa875d6c-6afc-4a0a-ab20-b442477b399d.svg&#34; alt=&#34;DLFNDcertificate&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://diliprk.github.io/project/deeplearning/</link>
+      <pubDate>Sat, 29 Jul 2017 21:02:08 +0530</pubDate>
+      
+      <guid>https://diliprk.github.io/project/deeplearning/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -5,6 +5,69 @@
     
     <url>
     
+      <loc>https://diliprk.github.io/post/masterthesis/</loc>
+      <lastmod>2020-05-01T20:40:33+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://diliprk.github.io/project/cyclegan/</loc>
+      <lastmod>2020-04-29T21:02:08+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://diliprk.github.io/project/pinn/</loc>
+      <lastmod>2020-04-29T21:02:08+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://diliprk.github.io/project/bnn/</loc>
+      <lastmod>2020-04-29T21:02:08+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://diliprk.github.io/post/adsb_hackathon/</loc>
+      <lastmod>2018-11-02T20:40:33+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://diliprk.github.io/project/ml_atm/</loc>
+      <lastmod>2018-11-01T21:02:08+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://diliprk.github.io/post/maskgan/</loc>
+      <lastmod>2018-09-20T20:40:33+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://diliprk.github.io/post/dand/</loc>
       <lastmod>2018-05-12T20:58:04+05:30</lastmod>
     </url>
@@ -59,8 +122,26 @@
     
     <url>
     
+      <loc>https://diliprk.github.io/post/dlfnd/</loc>
+      <lastmod>2017-08-03T15:51:07+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://diliprk.github.io/project/deeplearning/</loc>
+      <lastmod>2017-07-29T21:02:08+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://diliprk.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -69,7 +150,7 @@
     <url>
     
       <loc>https://diliprk.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -78,7 +159,7 @@
     <url>
     
       <loc>https://diliprk.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -87,17 +168,7 @@
     <url>
     
       <loc>https://diliprk.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://diliprk.github.io/tags/bokeh/</loc>
-      <lastmod>2018-04-29T21:02:08+05:30</lastmod>
+      <lastmod>2016-04-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -135,8 +206,18 @@
     
     <url>
     
+      <loc>https://diliprk.github.io/tags/machine-learning/</loc>
+      <lastmod>2020-04-29T21:02:08+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://diliprk.github.io/project/</loc>
-      <lastmod>2018-05-11T15:28:57+05:30</lastmod>
+      <lastmod>2020-04-29T21:02:08+05:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -146,16 +227,6 @@
     <url>
     
       <loc>https://diliprk.github.io/publication_types/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://diliprk.github.io/tags/python/</loc>
-      <lastmod>2018-04-29T21:02:08+05:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -185,7 +256,7 @@
     <url>
     
       <loc>https://diliprk.github.io/tags/</loc>
-      <lastmod>2018-04-29T21:02:08+05:30</lastmod>
+      <lastmod>2018-05-11T15:28:57+05:30</lastmod>
       <priority>0</priority>
     </url>
     
