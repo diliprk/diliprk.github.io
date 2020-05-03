@@ -66,9 +66,7 @@ The PDF of my Master Thesis Report can be accessed using &lt;a href=&#34;https:/
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Project Title:&lt;/strong&gt; &lt;a href=&#34;https://communities.intra.corp/sites/ads-b/ADSB%20Hackathon%202018/ADS-B%20Hackathon_Outcome_Team3.pdf&#34; target=&#34;_blank&#34;&gt;Runway and Holding analysis using LHR airport arrivals case&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;My Task&lt;/strong&gt; : Detect holding patterns and do runway classification with flight arrivals data for LHR (London Heathrow) airport.
-&lt;p align=&#34;center&#34;&gt;
-&lt;img src=&#34;https://user-images.githubusercontent.com/20330371/80918936-bb323880-8d67-11ea-8512-8c25f1d97a93.jpg&#34; /&gt;
-&lt;/p&gt;&lt;/li&gt;
+&lt;p align=&#34;center&#34;&gt;&lt;img src=&#34;https://diliprk.github.io/img/ADSB-Hackathon-TeamPic.jpg&#34; alt=&#34;TeamPic&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;In this team project I implemented  various Machine Learning algorithms (such as LSTMs, MLPs and XGBoost) for predicting various parameters related to &lt;em&gt;Air Traffic Control&lt;/em&gt; such as Flight Trajectory, ETA and Runway Classification. The collection of implementation works have been uploaded in this Git Repository: &lt;a href=&#34;https://github.com/diliprk/ML_ADS-B_Hackathon&#34; target=&#34;_blank&#34;&gt;https://github.com/diliprk/ML_ADS-B_Hackathon&lt;/a&gt;&lt;/p&gt;
