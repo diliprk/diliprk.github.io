@@ -11,6 +11,26 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>FTL Hackathon - COVID 19 and Global Impacts</title>
+      <link>https://diliprk.github.io/post/ftl_hackathon/</link>
+      <pubDate>Mon, 25 May 2020 20:40:33 +0530</pubDate>
+      
+      <guid>https://diliprk.github.io/post/ftl_hackathon/</guid>
+      <description>&lt;p&gt;To make some worthwhile contribution of my data science skills in the present COVID-19 global pandemic crisis, I participated in this Female Tech Leaders (FTL) Hackathon. The theme of this hackathon was to look at &amp;ldquo;&lt;em&gt;COVID19 and its Global Effects&lt;/em&gt;&amp;rdquo;.
+
+We had to select team members impromptu and come up with a project story.
+&lt;center&gt;&lt;a href=&#34;https://drive.google.com/uc?export=download&amp;amp;id=1E6ag6rVwM2EUdV2XlHlYGGQX-07c3IHZ&#34; target=&#34;_blank&#34;&gt;Link to Certificate of Participation&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;The title of our project was:&lt;/p&gt;
+
+&lt;h3 id=&#34;sentiment-analysis-of-covid-19-related-tweets-and-the-impact-on-equities&#34;&gt;Sentiment analysis of COVID-19 related tweets and the impact on equities&lt;/h3&gt;
+
+&lt;p&gt;In this project, we performed sentiment score analysis of tweets containing various hashtags related to COVID 19, lockdown announcements and other stock market related labels and analyze its impact on Dow Jones Industrial (DJI) stock index. The tweets were acquired in real time using &lt;code&gt;tweepy&lt;/code&gt; API, sentiment analysis was performed using &lt;code&gt;nltk&lt;/code&gt; library and the resulting data analytics results were stored in Google Sheets using a python script. We also show interactive data visualizations of the COVID-19 pandemic spread across the world (eg: GIS Choropleth plots) and other interesting plots for the twitter data analytics. I was responsible for most of the data visualizations and also did some minor data analytics, NLP work.&lt;/p&gt;
+
+&lt;p&gt;My contributions to this project and all implementation works have been uploaded in this Git Repository of my team mate: &lt;a href=&#34;https://github.com/maha-93/COVID19&#34; target=&#34;_blank&#34;&gt;https://github.com/maha-93/COVID19&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Master Thesis Completion</title>
       <link>https://diliprk.github.io/post/masterthesis/</link>
       <pubDate>Fri, 01 May 2020 20:40:33 +0530</pubDate>
@@ -181,15 +201,6 @@ You can see the research papers used for my presentation, in the seminar schedul
 &lt;center&gt;&lt;a href=&#34;https://confirm.udacity.com/EZY4RCHV&#34; target=&#34;_blank&#34;&gt;LINK to Verified Certificate&lt;/a&gt;&lt;/center&gt;
 &lt;img src=&#34;https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/fa875d6c-6afc-4a0a-ab20-b442477b399d.svg&#34; alt=&#34;DLFNDcertificate&#34; /&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://diliprk.github.io/project/deeplearning/</link>
-      <pubDate>Sat, 29 Jul 2017 21:02:08 +0530</pubDate>
-      
-      <guid>https://diliprk.github.io/project/deeplearning/</guid>
-      <description></description>
     </item>
     
   </channel>
