@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://diliprk.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS Certified - Machine Learning Speciality</title>
+      <link>https://diliprk.github.io/post/aws_mls/</link>
+      <pubDate>Tue, 22 Sep 2020 18:40:33 +0530</pubDate>
+      
+      <guid>https://diliprk.github.io/post/aws_mls/</guid>
+      <description>I passed my AWS - Machine Learning Specialty Certificate exam today. Validation Number Z5C34M1B21B11C9V
+Validate at: http://aws.amazon.com/verification or at CredlyClaim
+Download Certificate</description>
+    </item>
     
     <item>
       <title>FTL Hackathon - COVID 19 and Global Impacts</title>
